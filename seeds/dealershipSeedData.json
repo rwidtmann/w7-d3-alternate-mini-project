@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ABC Autos",
+    "city": "Cleveland",
+    "state": "Ohio"
+  },
+  {
+    "name": "XYZ Dealers",
+    "city": "Detroit",
+    "state": "Michigan"
+  },
+  {
+    "name": "AAA Auto",
+    "city": "Chicago",
+    "state": "Illinois"
+  }
+]

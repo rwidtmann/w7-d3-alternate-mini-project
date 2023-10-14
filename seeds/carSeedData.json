@@ -1,0 +1,38 @@
+[
+  {
+    "make": "Ford",
+    "model": "Mustang",
+    "year": "2005",
+    "color": "red"
+  },
+  {
+    "make": "chevy",
+    "model": "camero",
+    "year": "1987",
+    "color": "greeb"
+  },
+  {
+    "make": "jeep",
+    "model": "cheroke",
+    "year": "2010",
+    "color": "black"
+  },
+  {
+    "make": "Ford",
+    "model": "fusion",
+    "year": "2021",
+    "color": "blue"
+  },
+  {
+    "make": "chevy",
+    "model": "malibu",
+    "year": "1974",
+    "color": "orange"
+  },
+  {
+    "make": "lincoln",
+    "model": "mkz",
+    "year": "2018",
+    "color": "white"
+  }
+]
